@@ -20,7 +20,7 @@
 
 </p>
   
-### Language and Tools 🛠️
+### 🛠️Language and Tools
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
           
 ### 📈 My GitHub Stats
