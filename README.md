@@ -20,6 +20,9 @@
 
 </p>
   
+### Language and Tools 🛠️
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+          
 ### 📈 My GitHub Stats
 <p align="left">
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ONGYIYAN&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=#C22216&text_color=555">
