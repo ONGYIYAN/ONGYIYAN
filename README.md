@@ -2,7 +2,13 @@
 ![GitHub Followers](https://img.shields.io/github/followers/ONGYIYAN.svg?style=social&label=Followers)
 ![GitHub Star](https://img.shields.io/github/stars/ONGYIYAN?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
 
-<h2 align="center">I am Ong Yi Yan : a student of Data Engineering at Universiti Teknologi Malaysia. </h2>
+<h2 align="center">Hi, I'm Ong Yi Yan 👋</h2>
+<p align="center">
+    🎓 Data Engineering student at <strong>Universiti Teknologi Malaysia</strong> | Passionate about Blockchain, AI & Web Development
+</p>
+<p align="center">
+    🚀 Currently exploring <strong>Decentralized Applications (DApps)</strong> and <strong>AI-driven solutions</strong>
+</p>
 
 ## 🎓 Certifications and Badges  
 ### **Microsoft Certified: Azure AI Fundamentals** – Microsoft  
