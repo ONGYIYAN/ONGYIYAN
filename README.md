@@ -36,7 +36,7 @@
 📌 **Description:**  A **decentralized** platform for users to **review local businesses** on the blockchain, ensuring **transparency** and **trust**.  
 🔗 **[View Project](https://github.com/ONGYIYAN/MYUniversitiesHackathon_HackQuest)**  
 
-### 🙌🏻 Connect with Me
+## 🙌🏻 Connect with Me
 <p align="left">
     <a href="https://github.com/ONGYIYAN" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@ONGYIYAN-181717?style=flat-square&logo=GitHub&logoColor=yellow"></a>
     <a href="https://www.linkedin.com/in/yi-yan-ong-970149263/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Ong Yi Yan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yi-yan-ong-970149263/"></a>
@@ -44,10 +44,10 @@
 
 </p>
   
-### 🛠️Language and Tools
+## 🛠️Language and Tools
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
           
-### 📈 My GitHub Stats
+## 📈 My GitHub Stats
 <p align="left">
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ONGYIYAN&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=#C22216&text_color=555">
     <br>
