@@ -4,7 +4,7 @@
 
 <p align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTFmNzFhM2JlYTVlY2Q3NzQ2NDI4ZmM5ZTVkNDdlNTQ5Y2U1OGIyOSZjdD10cw/nlLIFsrosSd0U3gHso/giphy.gif" width="130"> 
 </p>
-<h2 align="center">I am Ong Yi Yan:wave:a student of Data Engineering at Universiti Teknologi Malaysia. </h2>
+<h2 align="center">I am Ong Yi Yan :a student of Data Engineering at Universiti Teknologi Malaysia. </h2>
 
 
 ### 🙌🏻 Connect with Me
