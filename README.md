@@ -33,8 +33,7 @@
 
 ### [Trustify - Decentralized Review Platform](https://github.com/ONGYIYAN/MYUniversitiesHackathon_HackQuest)  
 🛠️ **Tech Stack:** Solidity, JavaScript, HTML, CSS, Blockchain  
-📌 **Description:**  
-A **decentralized** platform for users to **review local businesses** on the blockchain, ensuring **transparency** and **trust**.  
+📌 **Description:**  A **decentralized** platform for users to **review local businesses** on the blockchain, ensuring **transparency** and **trust**.  
 🔗 **[View Project](https://github.com/ONGYIYAN/MYUniversitiesHackathon_HackQuest)**  
 
 ### 🙌🏻 Connect with Me
