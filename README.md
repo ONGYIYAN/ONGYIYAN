@@ -6,11 +6,6 @@
 </p>
 <h2 align="center">I am Ong Yi Yan:wave:a student of Data Engineering at Universiti Teknologi Malaysia. </h2>
 
-### :book: I'm currently learning...
-**SECP3204-[Software Engineering (WBL)](https://github.com/drshahizan/software-engineering)**
-
-### :teacher: My Lecturer
-**[Dr Shahizan bin Othman](https://github.com/drshahizan)**
 
 ### 🙌🏻 Connect with Me
 <p align="left">
