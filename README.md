@@ -3,10 +3,10 @@
 ![GitHub Star](https://img.shields.io/github/stars/ONGYIYAN?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
 
 <h2 align="center">Hi, I'm Ong Yi Yan</h2>
-<p align="center">
+<p>
     🎓 Third year Data Engineering student at <strong>Universiti Teknologi Malaysia</strong>
 </p>
-<p align="center">
+<p>
     🚀 Currently exploring <strong>High Performance Data Processing</strong>
 </p>
 
