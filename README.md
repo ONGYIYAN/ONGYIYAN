@@ -3,12 +3,6 @@
 ![GitHub Star](https://img.shields.io/github/stars/ONGYIYAN?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
 
 <h2 align="center">Hi, I'm Ong Yi Yan</h2>
-<p>
-    🎓 Third year Data Engineering student at <strong>Universiti Teknologi Malaysia</strong>
-</p>
-<p>
-    🚀 Currently exploring <strong>High Performance Data Processing</strong>
-</p>
 
 ## 🎓 Certifications and Badges  
 ### **Microsoft Certified: Azure AI Fundamentals** – Microsoft  
